@@ -1,0 +1,7 @@
+D:\workspace\MobilierApi\MobilierApi\bin\Debug\MobilierApi.exe.config
+D:\workspace\MobilierApi\MobilierApi\bin\Debug\MobilierApi.exe
+D:\workspace\MobilierApi\MobilierApi\bin\Debug\MobilierApi.pdb
+D:\workspace\MobilierApi\MobilierApi\obj\Debug\MobilierApi.csprojResolveAssemblyReference.cache
+D:\workspace\MobilierApi\MobilierApi\obj\Debug\MobilierApi.csproj.CoreCompileInputs.cache
+D:\workspace\MobilierApi\MobilierApi\obj\Debug\MobilierApi.exe
+D:\workspace\MobilierApi\MobilierApi\obj\Debug\MobilierApi.pdb
